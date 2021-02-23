@@ -17,6 +17,7 @@
       工号：<input type="text" name="id"><br>
       姓名：<input type="text" name="lastName"><br>
       电邮：<input type="text" name="email"><br>
+	  薪酬：<input type="text" name="salary"><br>
       部门编号：<input type="text" name="dept.id"><br>
       部门名称：<input type="text" name="dept.name"><br>
       <input type="submit">
