@@ -21,6 +21,7 @@
 	  C3功能bug修复：<input type="text" name="function"><br>
       部门编号：<input type="text" name="dept.id"><br>
       部门名称：<input type="text" name="dept.name"><br>
+	  C4功能开发100%：<input type="text" name="C4功能"><br>
       <input type="submit">
     </form>
   </body>
