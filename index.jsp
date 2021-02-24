@@ -20,6 +20,7 @@
 	  薪酬：<input type="text" name="salary"><br>
       部门编号：<input type="text" name="dept.id"><br>
       部门名称：<input type="text" name="dept.name"><br>
+	  C4功能开发50%：<input type="text" name="C4功能"><br>
       <input type="submit">
     </form>
   </body>
